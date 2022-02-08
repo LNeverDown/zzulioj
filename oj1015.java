@@ -1,6 +1,6 @@
 package zzulioj;
 import java.util.*;
-public class oj1015抄的 {
+public class oj1015 {
     public static void main(String[] args)
     {
         Scanner input=new Scanner(System.in);
