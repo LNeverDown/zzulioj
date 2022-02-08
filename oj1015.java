@@ -1,8 +1,7 @@
 package zzulioj;
 import java.util.*;
 public class oj1015 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         String s1,s2;
         s1=input.nextLine();
