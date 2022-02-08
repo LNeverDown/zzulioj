@@ -2,7 +2,8 @@ package zzulioj;
 import java.util.Scanner;
 
 public class oj1023 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
         char c=s.charAt(0);
