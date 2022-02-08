@@ -1,7 +1,7 @@
 package zzulioj;
 import java.util.Scanner;
 
-public class oj1023抄的 {
+public class oj1023 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
