@@ -1,7 +1,7 @@
 package zzulioj;
 import java.util.Scanner;
 
-public class oj1024抄的 {
+public class oj1024 {
 
     public static void main(String[] args) {
         Scanner cin=new Scanner(System.in);
