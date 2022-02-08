@@ -1,0 +1,15 @@
+package zzulioj;
+
+import java.util.Scanner;
+
+public class oj1027 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        if (Math.pow(a % 10,3) + Math.pow(a % 100 / 10,3) + Math.pow(a / 100,3) == a) {
+            System.out.println("yes");
+        } else {
+            System.out.println("no");
+        }
+    }
+}
