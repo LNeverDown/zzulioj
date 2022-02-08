@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class oj1024 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner cin=new Scanner(System.in);
         String s=cin.nextLine();
         char c=s.charAt(0);
